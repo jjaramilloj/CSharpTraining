@@ -1,0 +1,12 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".NET Core SDK 2.1", ".NET Core SDK 2.1", "{04659941-60D9-4C0B-9071-5DD4EC1D03D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".NET Core SDK 2.2", ".NET Core SDK 2.2", "{D21D590F-075C-4281-9810-A6FED9F10BD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
